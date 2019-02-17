@@ -1,0 +1,56 @@
+/* .box {
+  height: 50px;
+  width: 120px;
+  margin-left: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+  background: rgb(11,173,166);
+  align-content: center;
+  vertical-align: middle;
+  line-height: 50px;
+} */
+
+.navbar{
+  background: white;
+}
+
+body {
+  background: lightgray;
+}
+
+.container{
+  background: white;
+}
+/* 
+*{
+  margin: 0px;
+  padding: 0px;
+}
+ul li:hover{
+  background-color: teal;
+}
+
+ul ul{
+  display: none;
+  list-style-type:none;
+}
+
+ul li:hover > ul{
+  display: block;
+}
+
+.plots{
+  background: white;
+  height: 50px;
+  width: 100px;
+  margin-left: 100px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkgrey;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+} */
